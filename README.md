@@ -170,7 +170,3 @@ This project is open source and available under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-*This project demonstrates the application of machine learning in healthcare, specifically for heart disease prediction using the KNN algorithm. The analysis includes comprehensive data exploration, feature engineering, model development, and evaluation with healthcare-specific considerations.* 
